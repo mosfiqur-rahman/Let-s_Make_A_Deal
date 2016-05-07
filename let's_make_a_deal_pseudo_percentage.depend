@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1456883552 source:/home/mosfiqur/Desktop/CS-171/HW_4/hw_4_cs_171/main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
